@@ -1,0 +1,605 @@
+Running sim with 100 truck(s) and 1 unloading station(s)
+Stats for truck #0
+  Ticks Mining: 95040 (36.6668%)
+  Ticks Travelling: 30618
+  Ticks Idling: 131134
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #1
+  Ticks Mining: 94010 (36.2694%)
+  Ticks Travelling: 31484
+  Ticks Idling: 130997
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #2
+  Ticks Mining: 97566 (37.6413%)
+  Ticks Travelling: 32419
+  Ticks Idling: 126506
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #3
+  Ticks Mining: 108545 (41.8771%)
+  Ticks Travelling: 34090
+  Ticks Idling: 113856
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #4
+  Ticks Mining: 109119 (42.0985%)
+  Ticks Travelling: 28817
+  Ticks Idling: 118856
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #5
+  Ticks Mining: 101419 (39.1279%)
+  Ticks Travelling: 30618
+  Ticks Idling: 124755
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #6
+  Ticks Mining: 96751 (37.3269%)
+  Ticks Travelling: 32419
+  Ticks Idling: 127321
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #7
+  Ticks Mining: 105714 (40.7849%)
+  Ticks Travelling: 30618
+  Ticks Idling: 120460
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #8
+  Ticks Mining: 104457 (40.2999%)
+  Ticks Travelling: 30618
+  Ticks Idling: 121717
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #9
+  Ticks Mining: 101495 (39.1572%)
+  Ticks Travelling: 28817
+  Ticks Idling: 126480
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #10
+  Ticks Mining: 90992 (35.1051%)
+  Ticks Travelling: 32419
+  Ticks Idling: 133080
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #11
+  Ticks Mining: 88884 (34.2918%)
+  Ticks Travelling: 34220
+  Ticks Idling: 133387
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #12
+  Ticks Mining: 102950 (39.7185%)
+  Ticks Travelling: 30618
+  Ticks Idling: 123224
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #13
+  Ticks Mining: 109039 (42.0677%)
+  Ticks Travelling: 28183
+  Ticks Idling: 119570
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #14
+  Ticks Mining: 106055 (40.9164%)
+  Ticks Travelling: 28484
+  Ticks Idling: 122253
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #15
+  Ticks Mining: 101013 (38.9712%)
+  Ticks Travelling: 30618
+  Ticks Idling: 125161
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #16
+  Ticks Mining: 103590 (39.9654%)
+  Ticks Travelling: 30618
+  Ticks Idling: 122584
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #17
+  Ticks Mining: 102765 (39.6471%)
+  Ticks Travelling: 30618
+  Ticks Idling: 123409
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #18
+  Ticks Mining: 95545 (36.8616%)
+  Ticks Travelling: 32419
+  Ticks Idling: 128527
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #19
+  Ticks Mining: 109260 (42.1529%)
+  Ticks Travelling: 28817
+  Ticks Idling: 118715
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #20
+  Ticks Mining: 81005 (31.252%)
+  Ticks Travelling: 34220
+  Ticks Idling: 141266
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #21
+  Ticks Mining: 102956 (39.7208%)
+  Ticks Travelling: 28817
+  Ticks Idling: 125019
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #22
+  Ticks Mining: 92944 (35.8582%)
+  Ticks Travelling: 32419
+  Ticks Idling: 131128
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #23
+  Ticks Mining: 91162 (35.1707%)
+  Ticks Travelling: 32419
+  Ticks Idling: 132910
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #24
+  Ticks Mining: 99417 (38.3555%)
+  Ticks Travelling: 30618
+  Ticks Idling: 126757
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #25
+  Ticks Mining: 105219 (40.5939%)
+  Ticks Travelling: 30618
+  Ticks Idling: 120955
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #26
+  Ticks Mining: 110372 (42.582%)
+  Ticks Travelling: 28817
+  Ticks Idling: 117603
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #27
+  Ticks Mining: 100184 (38.6514%)
+  Ticks Travelling: 30618
+  Ticks Idling: 125990
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #28
+  Ticks Mining: 85892 (33.1375%)
+  Ticks Travelling: 34220
+  Ticks Idling: 136379
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #29
+  Ticks Mining: 106273 (41.0005%)
+  Ticks Travelling: 30618
+  Ticks Idling: 119901
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #30
+  Ticks Mining: 102011 (39.3562%)
+  Ticks Travelling: 30618
+  Ticks Idling: 124163
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #31
+  Ticks Mining: 107997 (41.6657%)
+  Ticks Travelling: 30618
+  Ticks Idling: 118177
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #32
+  Ticks Mining: 94464 (36.4446%)
+  Ticks Travelling: 32387
+  Ticks Idling: 129640
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #33
+  Ticks Mining: 97125 (37.4712%)
+  Ticks Travelling: 30618
+  Ticks Idling: 128785
+  Ticks Unloading: 2672
+  Total # of Unloads: 8
+Stats for truck #34
+  Ticks Mining: 99685 (38.4589%)
+  Ticks Travelling: 30618
+  Ticks Idling: 126489
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #35
+  Ticks Mining: 93779 (36.1803%)
+  Ticks Travelling: 32419
+  Ticks Idling: 130293
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #36
+  Ticks Mining: 104598 (40.3543%)
+  Ticks Travelling: 30618
+  Ticks Idling: 121576
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #37
+  Ticks Mining: 91012 (35.1128%)
+  Ticks Travelling: 32419
+  Ticks Idling: 133060
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #38
+  Ticks Mining: 97561 (37.6394%)
+  Ticks Travelling: 32419
+  Ticks Idling: 126511
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #39
+  Ticks Mining: 100575 (38.8022%)
+  Ticks Travelling: 30618
+  Ticks Idling: 125599
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #40
+  Ticks Mining: 93319 (36.0028%)
+  Ticks Travelling: 30618
+  Ticks Idling: 132855
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #41
+  Ticks Mining: 105014 (40.5148%)
+  Ticks Travelling: 28817
+  Ticks Idling: 122961
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #42
+  Ticks Mining: 101671 (39.2251%)
+  Ticks Travelling: 30618
+  Ticks Idling: 124503
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #43
+  Ticks Mining: 107086 (41.3142%)
+  Ticks Travelling: 30618
+  Ticks Idling: 119088
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #44
+  Ticks Mining: 98934 (38.1691%)
+  Ticks Travelling: 30618
+  Ticks Idling: 127240
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #45
+  Ticks Mining: 96475 (37.2204%)
+  Ticks Travelling: 32419
+  Ticks Idling: 127597
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #46
+  Ticks Mining: 89356 (34.4739%)
+  Ticks Travelling: 32419
+  Ticks Idling: 134716
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #47
+  Ticks Mining: 108794 (41.9732%)
+  Ticks Travelling: 30618
+  Ticks Idling: 117380
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #48
+  Ticks Mining: 108380 (41.8134%)
+  Ticks Travelling: 28817
+  Ticks Idling: 119595
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #49
+  Ticks Mining: 102682 (39.6151%)
+  Ticks Travelling: 28817
+  Ticks Idling: 125293
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #50
+  Ticks Mining: 95444 (36.8227%)
+  Ticks Travelling: 32419
+  Ticks Idling: 128628
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #51
+  Ticks Mining: 101142 (39.021%)
+  Ticks Travelling: 30618
+  Ticks Idling: 125032
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #52
+  Ticks Mining: 110386 (42.5874%)
+  Ticks Travelling: 30618
+  Ticks Idling: 115788
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #53
+  Ticks Mining: 99738 (38.4793%)
+  Ticks Travelling: 30618
+  Ticks Idling: 126436
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #54
+  Ticks Mining: 84393 (32.5592%)
+  Ticks Travelling: 34220
+  Ticks Idling: 137878
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #55
+  Ticks Mining: 108938 (42.0287%)
+  Ticks Travelling: 29354
+  Ticks Idling: 118500
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #56
+  Ticks Mining: 104055 (40.1448%)
+  Ticks Travelling: 28817
+  Ticks Idling: 123920
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #57
+  Ticks Mining: 103117 (39.7829%)
+  Ticks Travelling: 30618
+  Ticks Idling: 123057
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #58
+  Ticks Mining: 109261 (42.1533%)
+  Ticks Travelling: 30618
+  Ticks Idling: 116913
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #59
+  Ticks Mining: 97028 (37.4338%)
+  Ticks Travelling: 30618
+  Ticks Idling: 129146
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #60
+  Ticks Mining: 90379 (34.8686%)
+  Ticks Travelling: 30618
+  Ticks Idling: 135795
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #61
+  Ticks Mining: 95856 (36.9816%)
+  Ticks Travelling: 32419
+  Ticks Idling: 128216
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #62
+  Ticks Mining: 78427 (30.2574%)
+  Ticks Travelling: 36021
+  Ticks Idling: 141742
+  Ticks Unloading: 3010
+  Total # of Unloads: 10
+Stats for truck #63
+  Ticks Mining: 97444 (37.5943%)
+  Ticks Travelling: 32419
+  Ticks Idling: 126628
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #64
+  Ticks Mining: 98411 (37.9674%)
+  Ticks Travelling: 32419
+  Ticks Idling: 125661
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #65
+  Ticks Mining: 94743 (36.5522%)
+  Ticks Travelling: 30618
+  Ticks Idling: 131431
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #66
+  Ticks Mining: 105978 (40.8867%)
+  Ticks Travelling: 28817
+  Ticks Idling: 121997
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #67
+  Ticks Mining: 106316 (41.0171%)
+  Ticks Travelling: 30618
+  Ticks Idling: 119858
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #68
+  Ticks Mining: 87378 (33.7108%)
+  Ticks Travelling: 34220
+  Ticks Idling: 134893
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #69
+  Ticks Mining: 78159 (30.1541%)
+  Ticks Travelling: 34220
+  Ticks Idling: 144112
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #70
+  Ticks Mining: 102841 (39.6765%)
+  Ticks Travelling: 28817
+  Ticks Idling: 125134
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #71
+  Ticks Mining: 98297 (37.9234%)
+  Ticks Travelling: 30618
+  Ticks Idling: 127877
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #72
+  Ticks Mining: 100293 (38.6934%)
+  Ticks Travelling: 32419
+  Ticks Idling: 123779
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #73
+  Ticks Mining: 104513 (40.3215%)
+  Ticks Travelling: 30618
+  Ticks Idling: 121661
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #74
+  Ticks Mining: 96368 (37.1792%)
+  Ticks Travelling: 32419
+  Ticks Idling: 127704
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #75
+  Ticks Mining: 95412 (36.8103%)
+  Ticks Travelling: 32419
+  Ticks Idling: 128660
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #76
+  Ticks Mining: 86043 (33.1957%)
+  Ticks Travelling: 32419
+  Ticks Idling: 138029
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #77
+  Ticks Mining: 100690 (38.8466%)
+  Ticks Travelling: 30882
+  Ticks Idling: 124919
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #78
+  Ticks Mining: 99636 (38.44%)
+  Ticks Travelling: 30618
+  Ticks Idling: 126538
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #79
+  Ticks Mining: 99128 (38.244%)
+  Ticks Travelling: 30618
+  Ticks Idling: 127046
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #80
+  Ticks Mining: 100465 (38.7598%)
+  Ticks Travelling: 32419
+  Ticks Idling: 123607
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #81
+  Ticks Mining: 109615 (42.2899%)
+  Ticks Travelling: 28817
+  Ticks Idling: 118360
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #82
+  Ticks Mining: 95379 (36.7976%)
+  Ticks Travelling: 32419
+  Ticks Idling: 128693
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #83
+  Ticks Mining: 94286 (36.3759%)
+  Ticks Travelling: 32419
+  Ticks Idling: 129786
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #84
+  Ticks Mining: 94542 (36.4747%)
+  Ticks Travelling: 33231
+  Ticks Idling: 128718
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #85
+  Ticks Mining: 92507 (35.6896%)
+  Ticks Travelling: 34220
+  Ticks Idling: 129764
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #86
+  Ticks Mining: 97473 (37.6055%)
+  Ticks Travelling: 33943
+  Ticks Idling: 125075
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #87
+  Ticks Mining: 100843 (38.9056%)
+  Ticks Travelling: 30618
+  Ticks Idling: 125331
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #88
+  Ticks Mining: 109075 (42.0816%)
+  Ticks Travelling: 30618
+  Ticks Idling: 117099
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #89
+  Ticks Mining: 90558 (34.9376%)
+  Ticks Travelling: 32419
+  Ticks Idling: 133514
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #90
+  Ticks Mining: 98600 (38.0403%)
+  Ticks Travelling: 30618
+  Ticks Idling: 127574
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #91
+  Ticks Mining: 112403 (43.3655%)
+  Ticks Travelling: 28817
+  Ticks Idling: 115572
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #92
+  Ticks Mining: 93132 (35.9307%)
+  Ticks Travelling: 34220
+  Ticks Idling: 129139
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #93
+  Ticks Mining: 96223 (37.1232%)
+  Ticks Travelling: 34220
+  Ticks Idling: 126048
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #94
+  Ticks Mining: 101762 (39.2602%)
+  Ticks Travelling: 28817
+  Ticks Idling: 126213
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #95
+  Ticks Mining: 100896 (38.9261%)
+  Ticks Travelling: 30618
+  Ticks Idling: 125278
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #96
+  Ticks Mining: 96002 (37.038%)
+  Ticks Travelling: 34220
+  Ticks Idling: 126269
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #97
+  Ticks Mining: 109165 (42.1163%)
+  Ticks Travelling: 27581
+  Ticks Idling: 120046
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for truck #98
+  Ticks Mining: 95983 (37.0306%)
+  Ticks Travelling: 34220
+  Ticks Idling: 126288
+  Ticks Unloading: 2709
+  Total # of Unloads: 9
+Stats for truck #99
+  Ticks Mining: 100402 (38.7355%)
+  Ticks Travelling: 28817
+  Ticks Idling: 127573
+  Ticks Unloading: 2408
+  Total # of Unloads: 8
+Stats for unloading station #100
+  Ticks Unloading: 253707 (97.8812%)
+  Ticks Idling: 5493
+  Total # of Unloads: 842
