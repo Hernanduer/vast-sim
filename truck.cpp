@@ -6,7 +6,6 @@
 
 #include <memory>
 #include <random>
-#include <iostream> // REMOVE
 
 Truck::Truck(int id) : SimObject(id), actionTicksRemaining{0}, truckState{TO_MINING}, assignedStation{nullptr},
     stats{.ticksForAction = {{TO_MINING, 0}, {MINING, 0}, {TO_UNLOAD, 0}, {IDLING, 0}, {UNLOADING, 0}}, .trips = 0}
